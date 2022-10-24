@@ -1,2 +1,2 @@
 # gRPC
-Repository for learning gRPC app
+Repository for learning gRPC
